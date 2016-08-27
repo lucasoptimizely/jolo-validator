@@ -1,0 +1,27 @@
+{
+  "name": "jolo-validator",
+  "version": "1.0.0",
+  "description": "A validator for JOLO specs. JOLO is a definition language for programming languages based on Swagger. ",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasoptimizely/jolo-validator.git"
+  },
+  "keywords": [
+    "jolo",
+    "dli",
+    "api",
+    "sdk",
+    "definition",
+    "yaml"
+  ],
+  "author": "Lucas Swartsenburg",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/lucasoptimizely/jolo-validator/issues"
+  },
+  "homepage": "https://github.com/lucasoptimizely/jolo-validator#readme"
+}

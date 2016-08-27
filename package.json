@@ -16,7 +16,8 @@
     "api",
     "sdk",
     "definition",
-    "yaml"
+    "yaml",
+    "validator"
   ],
   "author": "Lucas Swartsenburg",
   "license": "Apache-2.0",
